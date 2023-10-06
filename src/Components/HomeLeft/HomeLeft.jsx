@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { AiOutlineArrowRight } from 'react-icons/ai';
 
 const HomeLeft = () => {

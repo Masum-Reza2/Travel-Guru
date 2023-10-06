@@ -12,6 +12,7 @@ const Navbar = () => {
                 <BsSearch className='absolute text-xl mx-3' />
             </div>
             <ul className='flex flex-col md:flex-row gap-5'>
+                <li><NavLink to={'/'}>Home</NavLink></li>
                 <li><NavLink to={'/news'}>News</NavLink></li>
                 <li><NavLink to={'/destination'}>Destination</NavLink></li>
                 <li><NavLink to={'/blog'}>Blog</NavLink></li>

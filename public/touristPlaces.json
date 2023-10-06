@@ -1,0 +1,65 @@
+[
+      {
+        "id": 1,
+        "origin": "Dhaka",
+        "destination": "Sundarbans Mangrove Forest",
+        "date_from": "2023-10-15",
+        "date_to": "2023-10-18",
+        "img": "https://i.ibb.co/hFDhW5T/sundorbon.png",
+        "details": "Sundarbans Mangrove Forest is the largest mangrove forest in the world and a UNESCO World Heritage Site. It is home to the Bengal tiger and diverse wildlife."
+      },
+      {
+        "id": 2,
+        "origin": "Dhaka",
+        "destination": "Cox's Bazar",
+        "date_from": "2023-11-05",
+        "date_to": "2023-11-10",
+        "img": "https://i.ibb.co/fqg9n3Y/6611298277-9689726a7f-b.jpg",
+        "details": "Cox's Bazar is famous for having the longest natural sea beach in the world. It's a popular destination for beach lovers."
+      },
+      {
+        "id": 3,
+        "origin": "Dhaka",
+        "destination": "Sajek Valley",
+        "date_from": "2023-12-20",
+        "date_to": "2023-12-25",
+        "img": "https://i.ibb.co/qrNcjy4/Sajek.png",
+        "details": "Sajek Valley is a picturesque hill station in the Chittagong Hill Tracts, known for its stunning landscapes and indigenous culture."
+      },
+      {
+        "id": 4,
+        "origin": "Dhaka",
+        "destination": "Ratnodweep (Ruby Island)",
+        "date_from": "2024-01-15",
+        "date_to": "2024-01-18",
+        "img": "https://i.ibb.co/DbFWKWP/rantondeep-Island.jpg",
+        "details": "Ratnodweep (Ruby Island) is a serene island located in the Bay of Bengal, known for its clear blue waters and coral reefs."
+      },
+      {
+        "id": 5,
+        "origin": "Dhaka",
+        "destination": "Rangamati",
+        "date_from": "2024-02-10",
+        "date_to": "2024-02-15",
+        "img": "https://i.ibb.co/wKhWFmN/star-land.jpg",
+        "details": "Rangamati is another beautiful hill district with lakes, hills, and tribal communities. It's a great place for nature enthusiasts."
+      },
+      {
+        "id": 6,
+        "origin": "Dhaka",
+        "destination": "Srimangal",
+        "date_from": "2024-03-08",
+        "date_to": "2024-03-12",
+        "img": "https://i.ibb.co/HXLnZxN/Sreemongol.png",
+        "details": "Srimangal is often called the 'Tea Capital of Bangladesh' and is famous for its lush tea gardens and serene environment."
+      },
+      {
+        "id": 7,
+        "origin": "Dhaka",
+        "destination": "Sylhet",
+        "date_from": "2024-04-20",
+        "date_to": "2024-04-25",
+        "img": "https://i.ibb.co/3vyW0LK/sylheti.jpg",
+        "details": "Sylhet is known for its stunning landscapes, rolling hills, and tea estates. It's a great destination for nature and adventure lovers."
+      }
+    ]
